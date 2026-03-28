@@ -1,0 +1,23 @@
+{
+  "comment_templates": [
+    "Bài viết hay quá! {emoji}",
+    "Cảm ơn bạn đã chia sẻ {emoji}",
+    "Tuyệt vời! {emoji}",
+    "Ủng hộ bạn nè {emoji}",
+    "Hay quá đi mất {emoji}"
+  ],
+  "emojis": ["👍", "❤️", "😍", "👏", "💯"],
+  "spin_syntax": true,
+  "default_delay": {
+    "min": 10,
+    "max": 60
+  },
+  "account_delay": {
+    "min": 30,
+    "max": 120
+  },
+  "user_agents": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+  ]
+}
